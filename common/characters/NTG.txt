@@ -1,0 +1,16 @@
+characters={
+	NTG_Lu_Zuofu={
+		name="NTG_Lu_Zuofu"
+		portraits={
+			civilian={
+				large=GFX_Portrait_NTG_Lu_Zuofu
+			}
+		}
+		country_leader={
+			desc="POLITICS_No_DESC"
+			ideology=LB_VARIANT_01
+			expire="1.1.1.1"
+			id=-1
+		}
+   	}
+}

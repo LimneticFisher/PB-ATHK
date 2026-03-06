@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_NTG_Lu_Zuofu"
+		textureFile = "gfx/leaders/NTG/GFX_Portrait_NTG_Lu_Zuofu.png"
+	}
+
+}
