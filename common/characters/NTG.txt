@@ -7,8 +7,7 @@ characters={
 			}
 		}
 		country_leader={
-			desc="POLITICS_No_DESC"
-			ideology=LB_VARIANT_01
+			ideology=JC_VARIANT_08
 			expire="1.1.1.1"
 			id=-1
 		}

@@ -69,4 +69,4 @@ set_politics = {
 	elections_allowed = no
 }
  
-recruit_character=NTG_Lu_Zuofu
+recruit_character = NTG_Lu_Zuofu
